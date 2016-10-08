@@ -92,13 +92,13 @@ These variables will return a list of values requested.
     - y
     - z
     - dimension
-    - side - The side of the block to fetch RF info from. (up/down/north/south/east/west)
+    - side - The side of the block to fetch fluid info from. (up/down/north/south/east/west)
 - inventory - Gives you the items in an inventory in the world. Arguments required:
     - x
     - y
     - z
     - dimension
-    - side - The side of the block to fetch RF info from. (up/down/north/south/east/west)
+    - side - The side of the block to fetch inventory info from. (up/down/north/south/east/west)
 
 
 Note that this list is not yet complete and i aim to add more stuff to it!
